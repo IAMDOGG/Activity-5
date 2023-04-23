@@ -1,0 +1,8 @@
+C:\Users\johnr\source\repos\act_PropandIndex\act_PropandIndex\bin\Debug\act_PropandIndex.exe.config
+C:\Users\johnr\source\repos\act_PropandIndex\act_PropandIndex\bin\Debug\act_PropandIndex.exe
+C:\Users\johnr\source\repos\act_PropandIndex\act_PropandIndex\bin\Debug\act_PropandIndex.pdb
+C:\Users\johnr\source\repos\act_PropandIndex\act_PropandIndex\obj\Debug\act_PropandIndex.csproj.AssemblyReference.cache
+C:\Users\johnr\source\repos\act_PropandIndex\act_PropandIndex\obj\Debug\act_PropandIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\johnr\source\repos\act_PropandIndex\act_PropandIndex\obj\Debug\act_PropandIndex.csproj.CoreCompileInputs.cache
+C:\Users\johnr\source\repos\act_PropandIndex\act_PropandIndex\obj\Debug\act_PropandIndex.exe
+C:\Users\johnr\source\repos\act_PropandIndex\act_PropandIndex\obj\Debug\act_PropandIndex.pdb
